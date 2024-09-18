@@ -1,4 +1,4 @@
-# restraurant-review using NLP
+# restraurant-review using NLP.
 
 
 ## Overview
